@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Devops Engineer for future</h1>
+   <h1> Happy Sunday </h1>
 
   
 </form>
